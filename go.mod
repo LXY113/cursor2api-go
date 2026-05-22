@@ -1,6 +1,6 @@
 module cursor2api-go
 
-go 1.26
+go 1.24
 
 require (
 	github.com/gin-gonic/gin v1.10.0
